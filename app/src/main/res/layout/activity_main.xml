@@ -54,6 +54,7 @@
         android:layout_height="100dp"
         android:background="@color/teal_700"
         app:layout_constraintStart_toStartOf="@+id/guideline3"
-        app:layout_constraintTop_toTopOf="@+id/guideline4" />
+        app:layout_constraintTop_toTopOf="@+id/guideline4"
+        tools:ignore="SpeakableTextPresentCheck" />
 
 </androidx.constraintlayout.motion.widget.MotionLayout>
